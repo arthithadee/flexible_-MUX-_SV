@@ -7,7 +7,7 @@ This SystemVerilog module implements a 16:1 multiplexer (MUX) using parameterize
 - **Testbench Structure:** Stimulus generation, clock generation, reset testing, and compare verification.
 - **Waveform Dumping:** Generates `dump.vcd` for waveform analysis.
 
-Testbench (mux_16x1_tb_top.sv)
+
 
 Generating Clock and Reset signals.
 Providing Random Inputs to the MUX.
